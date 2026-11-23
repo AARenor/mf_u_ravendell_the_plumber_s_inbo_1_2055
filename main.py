@@ -1,4 +1,4 @@
-"""Write the make.fun bounty entry to the output directory."""
+"""Write the make.fun bounty entry text to the output directory."""
 
 import os
 import sys
